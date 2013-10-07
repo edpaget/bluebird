@@ -1,0 +1,25 @@
+{
+  "name": "bluebird",
+  "version": "0.7.10-1",
+  "homepage": "https://github.com/petkaantonov/bluebird",
+  "authors": [
+    "Petka Atonov <petka_antonov@hotmail.com>"
+  ],
+  "description": "Full featured Promises/A+ implementation with exceptionally good performance",
+  "main": "js/bluebird.js",
+  "keywords": [
+    "promise",
+    "performance",
+    "fast",
+    "promises-aplus",
+    "async"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
